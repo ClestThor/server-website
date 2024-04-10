@@ -1,8 +1,8 @@
 <h3 align="center">
 
-[![repository](https://img.shields.io/badge/repository-white)](https://github.com/clestthor/server-website)
-
 `ClestThor`
+
+[![repository](https://img.shields.io/badge/repository-white)](https://github.com/clestthor/server-website)
 
 [![website](https://img.shields.io/badge/website-blue)](https://clestthor.github.io/server-website)
 [![mail](https://img.shields.io/badge/mail-blue)](mailto:clestthor@groups.outlook.com)
